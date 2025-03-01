@@ -1,0 +1,17 @@
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+Build/
+Builds/
+ExportedObj/
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.pidb
+*.booproj
+*.svd
